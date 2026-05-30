@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "quickly write a todo app",
+    "done": false
+  },
+  {
+    "id": 2,
+    "text": "buy milk",
+    "done": false
+  }
+]
